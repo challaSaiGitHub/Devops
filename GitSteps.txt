@@ -10,3 +10,19 @@ git commit -m" " : which are ready to push
 git remote add origin "https link in website" : for the first time we need to do to establish connection between the local folder and remote folder(for the first time)
 
 git push origin master : it push all the files to master(for the first it will consider as master or main by default)
+
+git clone repository link :To get folder from the remote repository to local folder we use this
+
+ls :will give all folders that are present in current folder
+
+branch: It a time line of commits
+purpose of  branch to isolate main code from the test code 
+
+Creating a branch :
+
+git branch Branchname
+
+git checkout branchname(to point head to this branch will use)
+
+
+
