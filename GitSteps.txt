@@ -1,0 +1,12 @@
+
+git init :it  is a working directory, we are telling that we keep the code in third folder in local(for the first time)
+
+git status: to know status of files whether they are tracked or not
+
+git add . :to track the files and also what are the files that we need to push into the git
+
+git commit -m" " : which are ready to push 
+
+git remote add origin "https link in website" : for the first time we need to do to establish connection between the local folder and remote folder(for the first time)
+
+git push origin master : it push all the files to master(for the first it will consider as master or main by default)
