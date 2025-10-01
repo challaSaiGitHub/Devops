@@ -1,0 +1,21 @@
+Change request:
+CBJ ----Came to Machine critical
+        all Sla have been refined
+Important fields
+justification field------------>at what time why at that time (purpose),what it will impact 
+Risk assessment question (when we make changes it wont come up then this will picture comes):Mission critical application means related to CBJ then related to machine critical--yes
+                          Does this change impact or have the potential--yes
+                           example :remove old plugins but not restarting the controllers it means it is effecting  to the  others services
+                          Does this change impact any other lob other than requesting 
+                            might be yes,NO,LOB Awareness
+                          Does this  change take place  within the enterprise Maintenance schedule
+                            yes
+                          How long will it take to recover if there are issues during or after your change
+                           
+                          30 minutes or less
+Backout plan: what if the impact had happened face any issue ,should mention in how many minutes will resolving the issue 
+
+
+                          
+                          
+                          
